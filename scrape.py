@@ -82,5 +82,3 @@ if __name__ == "__main__":
 
     search_string = input('what would you like to search for? ')
     product_list = search(search_string)
-    print(len(product_list))
-    print(product_list)
